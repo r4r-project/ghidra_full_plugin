@@ -1,0 +1,23 @@
+analyzeflowcode/graph/layouts/FunctionMetricsGraphLayoutProvider.java
+ analyzeflowcode.graph.layouts.FunctionMetricsGraphLayoutProvider
+analyzeflowcode/AnalyzeFlowcodePlugin.java
+ analyzeflowcode.AnalyzeFlowcodePlugin
+ analyzeflowcode.AnalyzeFlowcodePlugin$1
+analyzeflowcode/graph/FunctionMetricsVisualGraph.java
+ analyzeflowcode.graph.FunctionMetricsVisualGraph
+analyzeflowcode/graph/FunctionMetricsVisualVertex.java
+ analyzeflowcode.graph.FunctionMetricsVisualVertex
+analyzeflowcode/analyzer/CountInstructionsAnalyzer.java
+ analyzeflowcode.analyzer.CountInstructionsAnalyzer
+analyzeflowcode/analyzer/FunctionAnalyzer.java
+ analyzeflowcode.analyzer.FunctionAnalyzer
+analyzeflowcode/graph/FunctionMetricsVisualGraphComponentProvider.java
+ analyzeflowcode.graph.FunctionMetricsVisualGraphComponentProvider
+analyzeflowcode/functions/FunctionMetrics.java
+ analyzeflowcode.functions.FunctionMetrics
+analyzeflowcode/graph/layouts/FunctionMetricsGraphLayout.java
+ analyzeflowcode.graph.layouts.FunctionMetricsGraphLayout
+analyzeflowcode/graph/FunctionMetricsVisualEdge.java
+ analyzeflowcode.graph.FunctionMetricsVisualEdge
+analyzeflowcode/functions/utils/FunctionUtils.java
+ analyzeflowcode.functions.utils.FunctionUtils
